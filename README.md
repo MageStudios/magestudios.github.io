@@ -1,6 +1,6 @@
-# magestudios
+# MageStudios
 
-This template should help get you started developing with Vue 3 in Vite.
+A central repository for all our games.
 
 ## Recommended IDE Setup
 
