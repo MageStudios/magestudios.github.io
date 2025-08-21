@@ -1,0 +1,1 @@
+import{c as r,o as a,t as e,u as s}from"./index-CEONF6o_.js";const n={class:"text-xs p-2 text-center"},_={__name:"FooterSection",setup(c){const o=new Date().getFullYear();return(t,l)=>(a(),r("div",n,e(t.$t("footer.header"))+" © "+e(s(o))+" "+e(t.$t("footer.label")),1))}};export{_ as default};

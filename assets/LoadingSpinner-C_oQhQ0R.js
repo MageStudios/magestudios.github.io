@@ -1,0 +1,1 @@
+import{_ as n}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as o,o as s,b as t}from"./index-CEONF6o_.js";const r={},a={class:"flex flex-1 justify-center items-center"};function c(i,e){return s(),o("div",a,[...e[0]||(e[0]=[t("div",{class:"loading loading-ring loading-xl p-6"},null,-1)])])}const f=n(r,[["render",c]]);export{f as default};
